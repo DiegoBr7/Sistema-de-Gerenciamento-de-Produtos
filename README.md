@@ -51,3 +51,14 @@ Permite o cadastro de usuários, login com JWT, controle de permissões (Analist
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repo.git
 cd nome-do-repo
+
+### 2. Executar o Back End
+
+No meu caso eu utilizei o intellij para executar o projeto Spring :
+
+<img width="2490" height="1024" alt="Captura de tela 2025-09-22 161209" src="https://github.com/user-attachments/assets/657db500-06dd-42d0-965b-343376a86a5d" />
+
+### 3. Executar o Front End
+
+<img width="2548" height="1526" alt="Captura de tela 2025-09-22 161308" src="https://github.com/user-attachments/assets/6b49d2bb-835d-4cfb-a90d-4b7a3fa63722" />
+
