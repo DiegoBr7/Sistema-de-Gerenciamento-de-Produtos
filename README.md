@@ -290,7 +290,9 @@ link da imagem : https://github.com/user-attachments/assets/09859462-066f-4dfe-a
 
 E será selecionado o valor para a busca da tabela de produtos
 
-e como última funcionalidade tanto para analista como para supervisor o botão sair será direcionado a página login , com o botão para direcionar a página de registro e de registro para direcionar a página de login .
+e como última funcionalidade tanto para analista como para supervisor o botão sair será direcionado a página login ,
+
+com o botão para direcionar a página de registro e de registro para direcionar a página de login .
 
 
 
