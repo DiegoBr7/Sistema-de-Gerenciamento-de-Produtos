@@ -204,7 +204,7 @@ Analista → pode apenas visualizar e adicionar :
 
 link da imagem : https://github.com/user-attachments/assets/e49d3547-f610-4139-8833-7c5fa63768d6
 
-Adicionar Produto
+Adicionar Produto :
 
 <img width="1747" height="851" alt="Captura de tela 2025-09-22 180101" src="https://github.com/user-attachments/assets/2edc5e89-ffba-40cd-ae57-0e0f34890b77" />
 
