@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/painel.css">
+    <title>Painel - Supervisor</title>
+</head>
+
+<body>
+    <header>
+        <h1>Painel de Produtos - Supervisor</h1>
+        <button id="logout">Sair</button>
+    </header>
+
+    <main>
+
+        <div class="pSupervisor">
+            <div>
+                <button id="adicionar">➕ Adicionar Produto</button>
+            </div>
+
+            <div class="buscar" >
+                <input type="text" id="filtroNome" placeholder="Buscar produto por nome...">
+                <button id="btnBuscar">🔍 Buscar</button>
+            </div>
+        </div>
+
+        <table id="tabela-produtos">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                    <th>Descrição</th>
+                    <th>Preço</th>
+                    <th>Quantidade</th>
+                    <th>Data Criação</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+
+        <p id="mensagem"></p>
+    </main>
+
+    <script src="../javascript/painel-supervisor.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Adicionar Produto (Analista)</title>
+    <link rel="stylesheet" href="../css/adicionar.css" />
+</head>
+
+<body>
+    <div class="container">
+        <h2>Adicionar Produto (Analista)</h2>
+
+        <form id="produtoForm">
+            <input type="text" id="nome" placeholder="Nome" required />
+            <textarea id="descricao" placeholder="Descrição" required></textarea>
+            <input type="number" id="preco" placeholder="Preço (ex: 4500.00)" step="0.01" required />
+            <input type="number" id="quantidade" placeholder="Quantidade" required />
+            <button type="submit">Salvar</button>
+        </form>
+
+        <p id="mensagem"></p>
+        <div style="margin-top:12px;">
+            <button type="button" onclick="window.location.href='painel-analista.html'">Voltar ao Painel</button>
+        </div>
+    </div>
+
+    <script src="../javascript/analista-add.js"></script>
+</body>
+
+</html>

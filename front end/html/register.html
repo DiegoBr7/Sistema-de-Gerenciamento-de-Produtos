@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="../css/style.css">
+
+  <title>Página de Registro</title>
+
+
+</head>
+
+<body>
+
+  <main>
+
+    <div class="mainRegister">
+
+      <h1>Registrar</h1>
+
+      <form id="registro" action="" method="post">
+
+        <label for="nome">Nome completo</label>
+        <input type="text" name="nome" id="nome" placeholder="Digite seu nome" required>
+
+        <label for="email">E-mail</label>
+        <input type="email" name="email" id="email" placeholder="Digite seu e-mail" required>
+
+        <label for="senha">Senha</label>
+        <input type="password" name="senha" id="senha" placeholder="Digite sua senha" required>
+
+        <label for="confirmarSenha">Confirmar senha</label>
+        <input type="password" name="confirmarSenha" id="confirmarSenha" placeholder="Confirme sua senha" required>
+        <br>
+        <select name="" id="cargo">
+          <option value="ANALISTA">Analista</option>
+          <option value="SUPERVISOR">Supervisor</option>
+
+        </select>
+        <br>
+
+
+        <p id="mensagem"></p>
+        <div class="btn">
+
+          <button type="submit">Cadastrar</button>
+
+        </div>
+
+        <div class="loginOne">
+          <p><a href="login.html">Clique aqui </a> se já tem conta </p>
+        </div>
+
+      </form>
+
+    </div>
+
+  </main>
+
+  <script src="../javascript/register.js"></script>
+</body>
+
+</html>
