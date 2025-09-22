@@ -69,14 +69,13 @@ link da imagem : https://github.com/user-attachments/assets/6b49d2bb-835d-4cfb-a
 
 1️⃣ Usuário – Cadastro
 
-<img width="2415" height="762" alt="Captura de tela 2025-09-22 162709" src="https://github.com/user-attachments/assets/8f576cc0-ea54-426a-91fa-888ba1c89bd6" />
+<img width="2421" height="574" alt="Captura de tela 2025-09-22 163211" src="https://github.com/user-attachments/assets/f5cdb42c-d451-4558-b3ce-417d1bd662de" />
 
-link da imagem : https://github.com/user-attachments/assets/8f576cc0-ea54-426a-91fa-888ba1c89bd6
+link da imagem : https://github.com/user-attachments/assets/f5cdb42c-d451-4558-b3ce-417d1bd662de
 
-<img width="2429" height="1114" alt="Captura de tela 2025-09-22 162729" src="https://github.com/user-attachments/assets/7abf3a9d-c215-401d-b46a-c302adad6ee0" />
+<img width="2416" height="946" alt="Captura de tela 2025-09-22 163223" src="https://github.com/user-attachments/assets/f28f0c84-2da3-4f84-a60a-511d18a8bbaa" />
 
-link da imagem :https://github.com/user-attachments/assets/7abf3a9d-c215-401d-b46a-c302adad6ee0
-
+link da imagem : https://github.com/user-attachments/assets/f28f0c84-2da3-4f84-a60a-511d18a8bbaa
 
 
 
