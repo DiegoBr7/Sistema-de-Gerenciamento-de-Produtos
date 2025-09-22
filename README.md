@@ -69,6 +69,10 @@ link da imagem : https://github.com/user-attachments/assets/6b49d2bb-835d-4cfb-a
 
 1️⃣ Usuário – Cadastro
 
+Request
+
+POST http://localhost:8080/usuario/enviar
+
 <img width="2421" height="574" alt="Captura de tela 2025-09-22 163211" src="https://github.com/user-attachments/assets/f5cdb42c-d451-4558-b3ce-417d1bd662de" />
 
 link da imagem : https://github.com/user-attachments/assets/f5cdb42c-d451-4558-b3ce-417d1bd662de
@@ -76,6 +80,35 @@ link da imagem : https://github.com/user-attachments/assets/f5cdb42c-d451-4558-b
 <img width="2416" height="946" alt="Captura de tela 2025-09-22 163223" src="https://github.com/user-attachments/assets/f28f0c84-2da3-4f84-a60a-511d18a8bbaa" />
 
 link da imagem : https://github.com/user-attachments/assets/f28f0c84-2da3-4f84-a60a-511d18a8bbaa
+
+2️⃣ Usuário – Login
+
+Request
+
+POST http://localhost:8080/auth/login
+
+<img width="2412" height="463" alt="image" src="https://github.com/user-attachments/assets/0dc5e306-2115-4cdd-869b-72e2c9d0ae04" />
+
+link da imagem : https://github.com/user-attachments/assets/0dc5e306-2115-4cdd-869b-72e2c9d0ae04 
+
+Com essa solicitação do post ele irá enviar um token :
+
+<img width="2419" height="860" alt="Captura de tela 2025-09-22 163953" src="https://github.com/user-attachments/assets/e7740eae-1c87-43e7-aff0-27a388712a66" />
+
+link da imagem : https://github.com/user-attachments/assets/e7740eae-1c87-43e7-aff0-27a388712a66
+
+Com esse token altere o tipo de autorização para Bearer Toke e cole o codigo gerado :
+
+<img width="2388" height="1071" alt="Captura de tela 2025-09-22 164152" src="https://github.com/user-attachments/assets/2c512fd4-73aa-4dc0-9f25-04e85655bbf1" />
+
+link da imagem : https://github.com/user-attachments/assets/2c512fd4-73aa-4dc0-9f25-04e85655bbf1
+
+<img width="2412" height="1085" alt="Captura de tela 2025-09-22 164423" src="https://github.com/user-attachments/assets/c3313a3d-0f30-45b5-8a4b-6007fbcb84eb" />
+
+link da imagem : https://github.com/user-attachments/assets/c3313a3d-0f30-45b5-8a4b-6007fbcb84eb
+
+
+
 
 
 
