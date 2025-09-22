@@ -156,13 +156,32 @@ Response (204 No Content)
 
 (vazio)
 
-## AGORA TESTANDO O FRONT END :
+## .5 AGORA TESTANDO O FRONT END :
 
 No meu caso eu testei no VsCode , embaixo no rodapé da imagem tem o botão Go live clique nele e irá iniciar o front end , junto com o back end :
 
 <img width="2477" height="1478" alt="Captura de tela 2025-09-22 170203" src="https://github.com/user-attachments/assets/01b8cfd1-f92b-4c28-9238-bd00a65bb752" />
 
 link da imagem : https://github.com/user-attachments/assets/01b8cfd1-f92b-4c28-9238-bd00a65bb752
+
+Irá aparecer essa página :
+
+<img width="1912" height="975" alt="Captura de tela 2025-09-22 170534" src="https://github.com/user-attachments/assets/4e236609-54d0-42c0-b110-4b7f7f653f99" />
+
+link da imagem : https://github.com/user-attachments/assets/4e236609-54d0-42c0-b110-4b7f7f653f99
+
+Preencha todos os campos :
+
+<img width="1865" height="979" alt="Captura de tela 2025-09-22 170733" src="https://github.com/user-attachments/assets/c3b59f0a-9b08-484a-9b35-d8485255aafa" />
+
+link da imagem : https://github.com/user-attachments/assets/c3b59f0a-9b08-484a-9b35-d8485255aafa
+
+Você será redirecionado para a página login :
+
+<img width="1904" height="872" alt="Captura de tela 2025-09-22 171130" src="https://github.com/user-attachments/assets/29de1590-eda8-4b05-b98f-2354a929318c" />
+
+link da imagem : https://github.com/user-attachments/assets/29de1590-eda8-4b05-b98f-2354a929318c
+
 
 
 
