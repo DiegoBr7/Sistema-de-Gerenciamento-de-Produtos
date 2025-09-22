@@ -65,3 +65,18 @@ link da imagem : https://github.com/user-attachments/assets/657db500-06dd-42d0-9
 
 link da imagem : https://github.com/user-attachments/assets/6b49d2bb-835d-4cfb-a90d-4b7a3fa63722
 
+### 4. Realizando Testes Back End – Postman
+
+1️⃣ Usuário – Cadastro
+
+<img width="2415" height="762" alt="Captura de tela 2025-09-22 162709" src="https://github.com/user-attachments/assets/8f576cc0-ea54-426a-91fa-888ba1c89bd6" />
+
+link da imagem : https://github.com/user-attachments/assets/8f576cc0-ea54-426a-91fa-888ba1c89bd6
+
+<img width="2429" height="1114" alt="Captura de tela 2025-09-22 162729" src="https://github.com/user-attachments/assets/7abf3a9d-c215-401d-b46a-c302adad6ee0" />
+
+link da imagem :https://github.com/user-attachments/assets/7abf3a9d-c215-401d-b46a-c302adad6ee0
+
+
+
+
