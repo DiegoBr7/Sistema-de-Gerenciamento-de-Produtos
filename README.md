@@ -107,6 +107,67 @@ link da imagem : https://github.com/user-attachments/assets/2c512fd4-73aa-4dc0-9
 
 link da imagem : https://github.com/user-attachments/assets/c3313a3d-0f30-45b5-8a4b-6007fbcb84eb
 
+3️⃣ Produto – Cadastrar
+
+Request
+
+POST http://localhost:8080/api/produtos
+
+<img width="2397" height="566" alt="Captura de tela 2025-09-22 165005" src="https://github.com/user-attachments/assets/03440eec-25c1-4d9c-ae8c-6099617b6760" />
+
+link da imagem : https://github.com/user-attachments/assets/03440eec-25c1-4d9c-ae8c-6099617b6760
+
+<img width="2415" height="1123" alt="image" src="https://github.com/user-attachments/assets/d0656970-adfa-44e2-9631-1db5af4a4046" />
+
+link da imagem : https://github.com/user-attachments/assets/d0656970-adfa-44e2-9631-1db5af4a4046
+
+
+5️⃣ Produto – Buscar por ID
+
+Request
+
+GET http://localhost:8080/api/produtos/1
+
+<img width="2429" height="1207" alt="image" src="https://github.com/user-attachments/assets/a65bce43-715f-46d6-8bfd-8323b699627c" />
+
+link da imagem : https://github.com/user-attachments/assets/a65bce43-715f-46d6-8bfd-8323b699627c
+
+7️⃣ Produto – Buscar por Nome (Filtro)
+
+Request
+
+GET http://localhost:8080/api/produtos?nome=Notebook
+
+<img width="2397" height="1204" alt="image" src="https://github.com/user-attachments/assets/678558e2-1344-4677-bbc1-84fd4c1f26b2" />
+
+link da imagem : https://github.com/user-attachments/assets/678558e2-1344-4677-bbc1-84fd4c1f26b2
+
+8️⃣ Produto – Excluir (Supervisor apenas)
+
+Request
+
+DELETE http://localhost:8080/api/produtos/1
+
+<img width="2425" height="1221" alt="Captura de tela 2025-09-22 165933" src="https://github.com/user-attachments/assets/2413d7b3-db9d-4457-b609-d1028291fd3f" />
+
+link da imagem : https://github.com/user-attachments/assets/2413d7b3-db9d-4457-b609-d1028291fd3f
+
+Response (204 No Content)
+
+(vazio)
+
+## AGORA TESTANDO O FRONT END :
+
+No meu caso eu testei no VsCode , embaixo no rodapé da imagem tem o botão Go live clique nele e irá iniciar o front end , junto com o back end :
+
+<img width="2477" height="1478" alt="Captura de tela 2025-09-22 170203" src="https://github.com/user-attachments/assets/01b8cfd1-f92b-4c28-9238-bd00a65bb752" />
+
+link da imagem : https://github.com/user-attachments/assets/01b8cfd1-f92b-4c28-9238-bd00a65bb752
+
+
+
+
+
 
 
 
